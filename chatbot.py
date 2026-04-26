@@ -6,7 +6,7 @@ from PIL import Image
 import datetime
 import threading
 
-HF_TOKEN = "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"
+HF_TOKEN = "Add_huggingface_token"
 MODEL_NAME = "deepseek-ai/DeepSeek-V3-0324"
 
 client = InferenceClient(api_key=HF_TOKEN, provider="auto")
