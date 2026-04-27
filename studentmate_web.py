@@ -11,8 +11,11 @@ client = InferenceClient(
 )
 
 
-st.set_page_config(page_title="StudentMate AI", page_icon="🤖", layout="wide")
-
+st.set_page_config(
+    page_title="StudentMate AI",
+    page_icon="logo.png",
+    layout="wide"
+)
 # ---------- CSS DESIGN ----------
 st.markdown("""
 <style>
