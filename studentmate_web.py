@@ -3,7 +3,7 @@ from huggingface_hub import InferenceClient
 from pptx import Presentation
 import datetime, json, hashlib, os
 
-HF_TOKEN = "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"
+HF_TOKEN = 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
 MODEL = "deepseek-ai/DeepSeek-V3-0324"
 
 client = InferenceClient(
