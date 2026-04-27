@@ -3,13 +3,13 @@ from huggingface_hub import InferenceClient
 from pptx import Presentation
 import datetime, json, hashlib, os
 
-HF_TOKEN = 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
+HF_TOKEN = st.secrets["HF_TOKEN"]
 MODEL = "deepseek-ai/DeepSeek-V3-0324"
-
 client = InferenceClient(
-    api_key=st.secrets["HF_TOKEN"],
+    api_key=HF_TOKEN,
     provider="auto"
 )
+
 
 st.set_page_config(page_title="StudentMate AI", page_icon="🤖", layout="wide")
 
