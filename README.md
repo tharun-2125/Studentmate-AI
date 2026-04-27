@@ -68,4 +68,10 @@ This project uses:
 
 ---
 
+# AUTHOR
+Tharun N
+git hub:
+https://github.com/tharun-2125
+linked in:
+https://www.linkedin.com/in/tharun-n-35a43337a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
