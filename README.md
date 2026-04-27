@@ -1,5 +1,6 @@
 # 🤖 StudentMate AI
-
+# live demo
+https://studentmate-ai-e8pyw6rgjo4f3yz5kpnqhx.streamlit.app/
 🚀 **StudentMate AI** is an intelligent assistant designed specially for **school and college students** to help with:
 
 - 🧠 Project Ideas
